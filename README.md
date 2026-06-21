@@ -1,8 +1,8 @@
 # Hi, I'm Vamsi Raju Oleti 👋
 
-🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+🚀 Full Stack Developer | AI Enthusiast | Software Developer
 
-I’m a passionate developer who loves building modern web applications, exploring AI technologies, and creating solutions that solve real-world problems.
+I’m a passionate developer focused on building full-stack applications and exploring AI-powered solutions. I enjoy turning ideas into real-world projects and continuously improving my technical skills.
 
 ## 💻 About Me
 
@@ -49,7 +49,7 @@ An AI-powered platform that helps users practice interviews with generated quest
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vamsirajuoleti&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsi-Raju-Oleti&show_icons=true)
 
 ## 🌐 Connect With Me
 
