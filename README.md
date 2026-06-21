@@ -14,31 +14,19 @@ I’m a passionate developer focused on building full-stack applications and exp
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript
-- Python
-- Java
-- C
+- JavaScript - Python - Java - C
 
 ### Frontend
-- React.js
-- HTML
-- CSS
-- Tailwind CSS
+- React.js - HTML - CSS - Tailwind CSS
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+- Node.js - Express.js - REST APIs
 
 ### Database
-- MongoDB
-- MySQL
+- MongoDB - MySQL
 
 ### Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Docker
+- Git & GitHub - VS Code - Postman - Docker
 
 ## 🚀 Featured Projects
 
