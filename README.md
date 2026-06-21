@@ -1,6 +1,19 @@
-# 💫 About Me:
-Hi, I'm Vamsi Raju Oleti 👋<br><br>🚀 Aspiring Software Developer | Full-Stack Developer | AI Enthusiast<br><br>I love building web applications, exploring new technologies, and solving real-world problems through code.<br><br>💻 Skills & Interests:<br><br>- Full-Stack Web Development<br>- Artificial Intelligence & Machine Learning<br>- Software Development<br>- Open Source Contributions<br><br>🔭 Currently working on improving my development skills and building impactful projects.<br><br>🌱 Always learning, experimenting, and growing as a developer.<br>
+# Hi, I'm Vamsi Raju Oleti 👋
 
+💻 Software Developer | Full-Stack Developer | AI Enthusiast
+
+I am a passionate developer focused on building scalable web applications and exploring modern technologies. I enjoy solving real-world problems through clean, efficient code and continuously improving my skills in software development.
+
+Currently, I am learning and working with full-stack development, artificial intelligence, and emerging technologies while building projects that create meaningful impact.
+
+🚀 Passionate about:
+
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Problem Solving
+- Building Innovative Projects
+
+🌱 Always learning, experimenting, and growing as a developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_vam_see_05_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vamsi-raju-oleti-a7176731a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamsiraj482@gmail.com) 
